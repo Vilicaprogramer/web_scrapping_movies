@@ -1,19 +1,25 @@
-```markdown
 # 🎬 Sensacine Scraper: ¡Descubre el Cine con un Click! 🍿
 
-¡Hola a todos los cinéfilos y entusiastas del código! 👋 Este repositorio contiene un script de Python creado para extraer información de películas del sitio web Sensacine.  ¿Quieres saber qué películas son las más populares, cuáles son sus géneros y quiénes son sus protagonistas? ¡Este script te lo pone fácil!
+¡Hola a todos los cinéfilos y entusiastas del código! 👋  
+Este repositorio contiene un script de Python creado para extraer información de películas del sitio web Sensacine.  
+¿Quieres saber qué películas son las más populares, cuáles son sus géneros y quiénes son sus protagonistas?  
+¡Este script te lo pone fácil!
+
+---
 
 ## ✨ ¿Qué hace este script?
 
 Este script de web scraping se encarga de:
 
-*   **Recolectar información** de películas de todas las páginas de Sensacine.
-*   **Extraer detalles clave** como:
-    *   Título, fecha de estreno y duración.
-    *   Géneros, director y actores principales.
-    *   Valoraciones de medios, usuarios y Sensacine.
-    *   Sinopsis y opiniones de Sensacine.
-*   **Organizar los datos** en un DataFrame de Pandas para su fácil manejo.
+- **Recolectar información** de películas de todas las páginas de Sensacine.
+- **Extraer detalles clave**, como:
+  - Título, fecha de estreno y duración.
+  - Géneros, director y actores principales.
+  - Valoraciones de medios, usuarios y Sensacine.
+  - Sinopsis y opiniones de Sensacine.
+- **Organizar los datos** en un DataFrame de Pandas para su fácil manejo.
+
+---
 
 ## 🚀 ¿Cómo usarlo?
 
