@@ -1,4 +1,4 @@
-# 🎬 Sensacine Scraper: ¡Descubre el Cine con un Click! 🍿
+# 🎬 Sensacine Scraper: ¡Descubre el Cine con un Click!🍿
 
 ¡Hola a todos los cinéfilos y entusiastas del código! 👋  
 Este repositorio contiene un script de Python creado para extraer información de películas del sitio web Sensacine.  
