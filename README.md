@@ -1,12 +1,6 @@
 ```markdown
 # 🎬 Sensacine Scraper: ¡Descubre el Cine con un Click! 🍿
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.x-orange?logo=python&logoColor=white)](https://beautiful-soup-4.readthedocs.io/en/latest/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.0%2B-green?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
 ¡Hola a todos los cinéfilos y entusiastas del código! 👋 Este repositorio contiene un script de Python creado para extraer información de películas del sitio web Sensacine.  ¿Quieres saber qué películas son las más populares, cuáles son sus géneros y quiénes son sus protagonistas? ¡Este script te lo pone fácil!
 
 ## ✨ ¿Qué hace este script?
