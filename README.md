@@ -54,3 +54,4 @@ Este script de web scraping se encarga de:
 ## 🤝 Feedback
 
 Si usas el script y tienes alguna pregunta, comentario o sugerencia, por favor, ¡no dudes en contactarme! Tu feedback es fundamental para seguir mejorando.
+```
