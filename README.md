@@ -19,19 +19,19 @@ Este script de web scraping se encarga de:
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone https://github.com/Vilicaprogramer/web_scrapping_movies.git
+     $ git clone https://github.com/Vilicaprogramer/web_scrapping_movies.git
     ```
 2.  **Instala las dependencias:**
     ```bash
-    pip install pandas requests beautifulsoup4
+    $ pip install pandas requests beautifulsoup4
     ```
 3.  **Ejecuta el script:**
     ```bash
-    python Ingesta_datos_Sensacine.py
+    $ python Ingesta_datos_Sensacine.py
     ```
 4.  **Explora los datos:** Antes de ejecutar el archivo recuerda cambiar en la última linea del código la ubicación y el nombre del archivo csv que se genrará
     ```python
-    df_peliculas.to_csv('pon_aqui_el_nombre_de_tu_archivo.csv', index=False, encoding='utf-8')
+    $ df_peliculas.to_csv('pon_aqui_el_nombre_de_tu_archivo.csv', index=False, encoding='utf-8')
     ```
 
 ## 🛠️ ¡Contribuye!
